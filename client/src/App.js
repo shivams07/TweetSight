@@ -229,9 +229,7 @@ function App() {
       {showMainContent()}
       <div class="footer my-auto">
         <p>
-          Made with <h1 class="fa fa-heart" style={{ color: "#3949AB" }}></h1>{" "}
-          by Rohit Agrawal (
-          <a href="https://github.com/agrawal-rohit">Github</a>)
+          
         </p>
       </div>
     </div>
