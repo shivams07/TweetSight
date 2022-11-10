@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap");
 
+
 body {
   background-color: #fbfbfb;
 }
@@ -7,7 +8,7 @@ body {
 .app-title {
   font-family: "Poppins";
   font-weight: 800;
-  font-size: 3vw;
+  font-size: 4vw;
 }
 
 .hashtag {
