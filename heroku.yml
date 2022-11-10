@@ -1,0 +1,7 @@
+setup:
+  config:
+    MY_VARIABLE: SomeValue
+build:
+  docker:
+    web: ./client/Dockerfile
+    worker: ./server/Dockerfile
